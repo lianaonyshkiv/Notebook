@@ -1,7 +1,6 @@
 from notebook import Notebook, Note
 import sys
 
-
 class Menu:
     ''' Display a menu and respond to choices when run. '''
 
